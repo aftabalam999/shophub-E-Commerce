@@ -38,11 +38,14 @@ ShopHub is a modern e-commerce website built with HTML, CSS (Bootstrap), and Jav
 - `css/` - Custom CSS styles
 - `public/` - Static assets
 
+## Demo
+
+<img width="954" height="447" alt="e-commerce" src="https://github.com/user-attachments/assets/8bc68225-4e9b-4720-a7f2-69cfe26a7b06" />
 
 ## License
 
 This project is for educational/demo purposes.
-
+Don't forget to give credit. 😍
 ---
 
 Made with ❤️ for learning and practice.
